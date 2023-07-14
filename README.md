@@ -24,7 +24,7 @@
    const filePath = video_data.title + ".mp4";
    ```
 
-7. An example video channel to use is `https://www.youtube.com/@loopcs44`.
+7. An example youtube channel to use is `https://www.youtube.com/@loopcs44`.
 
 8. Add the code to download the video.
 
